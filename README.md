@@ -1,7 +1,5 @@
 # Projeto_diabetes
 
-# Projeto_auto
-
 # <p align="center"> <b> Análise Exploratória - Diabetes  </b> 
 
  
@@ -15,7 +13,7 @@ No final, o objetivo do projeto é predizer se inserindo um novo dado, essa pess
 A lógica para análise foi baseada:
 
 
-<b> 1 - Business Problem </b> Entender o problema de negócio</br>
+<b> 1 - Business Problem </b> -Entender o problema de negócio-</br>
 <b> 2- Preparação do dados </b> </br>
 
     - Importação das bibliotecas
