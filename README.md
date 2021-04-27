@@ -3,7 +3,7 @@
 # <p align="center"> <b> Análise Exploratória - Diabetes  </b> 
 
  
-##  Sobre o projeto</br> </br> 
+##  Sobre o projeto: </br> </br> 
 
 O projeto conta com um dataset público sobre pessoas que são diagnosticadas ou não com diabetes, dentre algumas
 colunas análisadas estão variáveis como idade, indice corpóreo, predisposição e etc.
